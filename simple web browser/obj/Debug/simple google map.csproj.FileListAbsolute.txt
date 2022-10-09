@@ -1,0 +1,11 @@
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\bin\Debug\simple web browser.exe.config
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\bin\Debug\simple web browser.exe
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\bin\Debug\simple web browser.pdb
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple google map.csproj.AssemblyReference.cache
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple google map.csproj.SuggestedBindingRedirects.cache
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple_web_browser.Form1.resources
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple_web_browser.Properties.Resources.resources
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple google map.csproj.GenerateResource.cache
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple google map.csproj.CoreCompileInputs.cache
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple web browser.exe
+C:\Users\marziyeh\source\repos\simple web browser\simple web browser\obj\Debug\simple web browser.pdb
